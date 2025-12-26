@@ -1,6 +1,6 @@
 # Hi! I'm Rylan.
 
-I'm a Computer Science student at **DePaul University** pursuing a career in Software Engineering. I previously did Software Engineering at Meeedly and was a Web Development Intern at **CAFÉCS**.
+I'm a Computer Science student at **DePaul University** pursuing a career in Software Engineering. I previously did Software Engineering at **Meeedly** and was a Web Development Intern at **CAFÉCS**.
 
 I have experience programming in:
 - **C/C++**
