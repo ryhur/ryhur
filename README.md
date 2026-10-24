@@ -2,7 +2,7 @@
 
 *Full Stack Software Engineer* | *Web Developer* | *Java, Python, C++* | *React, Django, Spring*
 
-I’m an aspiring Software Engineer and Computer Science graduate from DePaul University with experience building full-stack and mobile applications. I previously did Software Engineering at **Meeedly** and was a Web Development Intern at **CAFÉCS**.
+I’m a Software Engineer with experience building full-stack and mobile applications. I previously did Software Engineering at **Meeedly** and was a Web Development Intern at **CAFÉCS**.
 
 ---
 
@@ -37,4 +37,4 @@ Feel free to connect with me through LinkedIn or by email. Thanks!
 
 At DePaul, I conducted research in quantum dynamics focused on improving energy efficiency in photovoltaic systems, and co-founded SimplyCS, a tutoring organization supporting accessible computer science education.
 
-In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https://www.instagram.com/claimursa/). If I'm not jamming, I'm either working on fun software projects or trying to learn how to cook.
+In my free time, I play guitar and bass guitar. If I'm not jamming, I'm either working on fun software projects or trying to learn how to cook.
